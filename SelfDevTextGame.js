@@ -191,5 +191,5 @@ const textNodes = [
 ]
 
 startGame()
-
+ 
 /* Reference: Edited from "Build a Text Adventure Game with JavaScript" by Web Dev Simplified https://youtu.be/R1S_NhKkvGA  accessed 12/26/22*/
